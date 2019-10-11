@@ -55,9 +55,9 @@
         "web-terminal": "./bin/run.js"
     },
     "scripts": {
-        "build": "my-framework build --output public"
         "start": "node ./bin/run.js",
         "test": "node test"
+        "build": "my-framework build --output public"
     },
     "bugs": {
         "email": "boyan@rabchev.com",
